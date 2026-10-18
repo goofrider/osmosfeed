@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2026-10-18T17:16:55.460Z</id>
+    <title>osmos::feed</title>
+    <updated>2026-10-18T17:16:55.460Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate an Application from AWS to GKE [Full Book]]]></title>
+        <id>6ad245772c56514e6fd78db7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/"/>
+        <updated>2026-10-16T15:40:39.000Z</updated>
+        <summary type="html"><![CDATA[This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo]]></summary>
+        <author>
+            <name>Osomudeya Zudonu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]]]></title>
+        <id>6ad23fa987efcb761dd9805f</id>
+        <link href="https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/"/>
+        <updated>2026-10-16T15:15:53.000Z</updated>
+        <summary type="html"><![CDATA[A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that]]></summary>
+        <author>
+            <name>Vasuki Uday Kiran Vudathala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anatomy of an AI Data Center]]></title>
+        <id>6ad210e1717d55cb5bae9773</id>
+        <link href="https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/"/>
+        <updated>2026-10-16T11:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Design Software Systems Like a Senior Engineer in Our New Course]]></title>
+        <id>6ad20bc2f10b4af311064a38</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/"/>
+        <updated>2026-10-16T11:34:26.000Z</updated>
+        <summary type="html"><![CDATA[System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your Organization Messing Up AI Adoption?]]></title>
+        <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
+        <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
+        <updated>2026-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS]]></title>
+        <id>6ad0d6b41b1aaeb205d2d198</id>
+        <link href="https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/"/>
+        <updated>2026-10-15T13:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Give an AI Agent Safe Access to an Internal API with MCP]]></title>
+        <id>6ad05e6261108f0421f7f3d4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/"/>
+        <updated>2026-10-15T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa]]></summary>
+        <author>
+            <name>Harish Gaggar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure by Design: How to Engineer Security into Architecture Before Writing Any Code]]></title>
+        <id>6ad05dd81f613b7136df1683</id>
+        <link href="https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/"/>
+        <updated>2026-10-15T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
+        <id>6ad05935fb11435ce8281161</id>
+        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
+        <updated>2026-10-15T04:40:21.000Z</updated>
+        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
+        <id>6acfa07df5672c904a1a970e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
+        <updated>2026-10-14T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
+        <id>6acf003cd00b1413f617c32e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
+        <updated>2026-10-14T04:08:28.000Z</updated>
+        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
+        <author>
+            <name>Abhinay Gokul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
+        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
+        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
+        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
+        <updated>2026-09-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+</feed>
